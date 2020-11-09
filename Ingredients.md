@@ -1,4 +1,4 @@
-<h2> Ingreients </h2>
+<h2> Ingredients </h2>
 
 <ul>
 <li>Kappa</li>
